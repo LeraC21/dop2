@@ -9,4 +9,4 @@ def change_speed(file_path, speed):
     print(f"Файл успешно сохранен по пути {new_file_path}")
 
 
-change_speed("song9.wav", 3)
+change_speed("song9.wav", 4)
