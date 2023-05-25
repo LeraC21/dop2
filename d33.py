@@ -1,3 +1,4 @@
+"njn"
 from functools import reduce
 
 
